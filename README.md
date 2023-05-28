@@ -22,4 +22,5 @@ Basics of opencv: 1.Reading and displaying images
 
 Week 3:
 1.Mathematical methods behind image processing. The different matrix algebrae for different sort of image processes like blurring and edge detection.
-2.Image process functions and face detection using opencv and numpy
+2.The concept of gradient, Sobel and Canny Edge detection method and the kernels associated with them.
+3.Image processing functions and face detection using opencv and numpy
