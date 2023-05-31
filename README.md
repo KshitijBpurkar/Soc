@@ -1,5 +1,6 @@
 # Soc
 Image Processing and Object Detection
+
 Mentors:Chaitanya Sannake, Prajyot Chakre, Suyash
 
 Week 1:
